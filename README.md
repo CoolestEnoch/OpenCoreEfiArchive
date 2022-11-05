@@ -1,5 +1,5 @@
 # OpenCore EFI存档 / OpenCore EFI Archive
-### 累计访问量 / Visit count
+### 本页累计访问量 / Visit count
 ![ViewCount](https://count.getloli.com/get/@view_github_ce_ocefiarch)
 
 # 收录机型 / Categorized Devices
