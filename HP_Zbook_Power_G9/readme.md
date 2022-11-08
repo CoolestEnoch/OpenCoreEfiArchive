@@ -1,7 +1,10 @@
 # 设备信息 / Device info
 > CPU: Intel Core i7-12700H
+
 > iGPU: Intel Iris Xe
+
 > dGPU: nVidia T600
+
 > WiFi: Intel AX211
 
 # 正常使用 / Working
