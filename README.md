@@ -7,6 +7,7 @@
 # 收录机型 / Categorized Devices 🖥️
 - [x] [Dell G5 5500 / Dell G3 3500](Dell_G5_5500) => BigSur/Ventura
 - [x] [Microsoft Surface Go 3](Surface_Go_3) => BigSur/Ventura
+- [x] [HP Zbook Power G9](HP_Zbook_Power_G9) => Ventura
 
 # 构建工具 / Build with 🛠️
 [OpenCore Configurator](https://github.com/HackintoshFans/OpenCoreConfigurator)
