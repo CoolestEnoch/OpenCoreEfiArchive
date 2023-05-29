@@ -1,6 +1,6 @@
 # 戴尔G5黑苹果EFI
 
-# *[后续版本更新请点我！！本仓库将做留档处理，不会继续更新！！！](https://github.com/CoolestEnoch/Dell-G5-5500-opencore)*
+# *[后续版本更新请点我！！本仓库将做留档处理，不会继续更新！！！](https://github.com/CoolestEnoch/Dell-G5-5500-opencore/releases)*
 
 BigSur专版EFI fork自[此处](https://github.com/Xoloth/Dell-G3-3500-Opencore-Hackintosh)
 
