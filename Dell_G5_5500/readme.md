@@ -1,5 +1,7 @@
 # 戴尔G5黑苹果EFI
 
+# *[后续版本更新请点我！！本仓库将做留档处理，不会继续更新！！！](https://github.com/CoolestEnoch/Dell-G5-5500-opencore)*
+
 BigSur专版EFI fork自[此处](https://github.com/Xoloth/Dell-G3-3500-Opencore-Hackintosh)
 
 0.8.5版OpenCore测试过可以开BigSur、Ventura，其中Ventura支持有线网络连接。
