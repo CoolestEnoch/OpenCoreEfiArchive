@@ -10,8 +10,9 @@
 - [x] [HP Zbook Power G9](HP_Zbook_Power_G9) => Ventura
 
 # 当前仍在维护的机型 / Devices keeping maintaining
-> 本页面只作为曾经的留档，要获取更新请移步以下页面。
+> 本页面只作为曾经的留档，要获取更新请移步以下页面。<br/>
 > This site is only an archive, please visit site below if you want to get updates.
+
 [Microsoft Surface Go 3](https://github.com/CoolestEnoch/surface-go3-opencore)
 [Dell Inspiron G5 5500 (2020, Intel i5)](https://github.com/CoolestEnoch/Dell-G5-5500-opencore)
 
